@@ -922,7 +922,7 @@ In this step, we'll build out the `FilterString` component.
   * The first `span` - className="puzzleText"
   * `input` - className="inputLine"
   * `button` - className="confirmationButton"
-  * The last `span` - className="resultsBox filterStringRB"
+  * The last `span` - className=" "
 * Assign the `h4` element the value of `"Filter String`.
 * Create a `constructor` method that creates an initial state:
   * `unFilteredArray` - This should default to an array of strings. You choose what strings go in the array.
